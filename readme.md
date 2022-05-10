@@ -23,11 +23,11 @@ Glossary:
 
 +Tutorials:
 - Intro to Web Development & NASA API: Mars Rover Photos!
-- Creado por Brandon Escamilla, Space Apps Lead en México
+ Creado por Brandon Escamilla, Space Apps Lead en México
 
 [![Brandon Escamilla](https://img.youtube.com/vi/KcyGr_onNiM/1.jpg)](https://youtu.be/KcyGr_onNiM)
 
-+Recursos:
++Resources:
 
 [Satelite Terra](https://terra.nasa.gov/about/terra-instruments/modis)
 
