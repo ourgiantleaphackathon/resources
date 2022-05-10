@@ -5,7 +5,7 @@
 
 ###### Organized by OGL Team & Sponsored by Korean Aerospace Research Institute.
 
-###### ||Global competition 🌎 ||Build solutions for your communities main challenges to achieve gender equality, by using Space Techs. ||
+###### ||Global competition: 🌎 Build solutions for your communities main challenges to achieve gender equality, by using Space Techs. ||
 
 ###### ||Resources: [NASA API](https://api.nasa.gov/), [GIBS API](https://wiki.earthdata.nasa.gov/display/GIBS/GIBS+API+for+Developers). ||
 
