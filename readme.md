@@ -9,16 +9,12 @@
 ###### Organized by OGL Team & Sponsored by Korean Aerospace Research Institute.
 
 
-###### ||Resources: [NASA API](https://api.nasa.gov/), [GIBS API](https://wiki.earthdata.nasa.gov/display/GIBS/GIBS+API+for+Developers). ||
+###### ||Resources:|| 
 
-APPLY:
-
-Possible issues to address:
-
-- Gender equality in farming: 
-- The high price of collecting water: 
-- Child marriage and other forms of gender-based violences: 
-- Better access to public sanitation and healthcare: 
+- [Gender equality in farming](#), 
+- [The high price of collecting water](#).  
+- [Better access to public sanitation and healthcare:](#), 
+- [Child marriage and other forms of gender-based violences](#),  
 
 
 Glossary:
