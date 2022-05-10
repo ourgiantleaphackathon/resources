@@ -1,4 +1,4 @@
-# 🤖 [Our Giant Leap Hackathon](https://spacegeneration.org/our-giant-leap-hackathon-2022) 🛰️ 
+# 🤖 [Our Giant Leap Hackathon 2022](https://spacegeneration.org/our-giant-leap-hackathon-2022) 🛰️ 
 ### How can space technology and know-how help make a leap forward towards gender equality on Earth?
 
 [![Pitch](https://img.youtube.com/vi/pErzslMIl68/0.jpg)](https://youtu.be/pErzslMIl68)
