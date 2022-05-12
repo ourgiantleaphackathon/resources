@@ -11,15 +11,17 @@
 
 ###### ||Resources:|| 
 
-> ||Women Safety|| 
+> Women Safety ✊
 
-> 1. GPS control & NFC:
+> 📍 GPS control & NFC:
 - Get user [Geolocation](https://developers.google.com/maps/documentation/javascript/examples/map-geolocation#maps_map_geolocation-html)
 
-> 2. 3D Prototyping
+> 👾 3D Prototyping:
+- Thinkercad
 
-> 3. Web Apps
-
+> 🌐 Web Apps:
+- Github Pages
+- Glitch
 
 ###### ||Agriculture|| 
 
