@@ -13,13 +13,13 @@
 
 > Women Safety ✊
 
-> 📍 GPS control & NFC:
+###### 📍 GPS control & NFC:
 - Get user [Geolocation](https://developers.google.com/maps/documentation/javascript/examples/map-geolocation#maps_map_geolocation-html)
 
-> 👾 3D Prototyping:
+###### 👾 3D Prototyping:
 - Thinkercad
 
-> 🌐 Web Apps:
+###### 🌐 Web Apps:
 - Github Pages
 - Glitch
 
