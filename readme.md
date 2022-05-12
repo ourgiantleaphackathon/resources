@@ -23,20 +23,6 @@
 - Github Pages
 - Glitch
 
-
-```
-###### 📍 GPS control & NFC:
-- Get user [Geolocation](https://developers.google.com/maps/documentation/javascript/examples/map-geolocation#maps_map_geolocation-html)
-
-###### 👾 3D Prototyping:
-- Thinkercad
-
-###### 🌐 Web Apps:
-- Github Pages
-- Glitch
-
-```
-
 ###### ||Agriculture|| 
 
 - 1
