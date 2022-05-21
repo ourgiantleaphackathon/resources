@@ -12,9 +12,9 @@
 
 "Gender equality is not only a fundamental human right, but a necessary foundation for a peaceful, prosperous and sustainable world." ([UN,2022](https://www.un.org/sustainabledevelopment/gender-equality/)) 
 
-#### Resources by Topic: 
+#### Resources by Project: 
 
-> Women Safety ✊
+> Women Safety 🚨
 
 ###### 📍 GPS control & NFC:
 - Get user [Geolocation](https://developers.google.com/maps/documentation/javascript/examples/map-geolocation#maps_map_geolocation-html)
@@ -23,7 +23,7 @@
 ###### 👾 3D Prototyping:
 - [Thinkercad](https://www.tinkercad.com/things/dL0gL9ezOA0-shiny-amur-turing/edit?sharecode=lwpFEJssJQfujnIcSLRVfZilQRtdQPB1Z9O_7356VKo)
 
-> Agriculture 🌾
+> Agriculture & Farming 🌾
 
 - [Global Forest Watch](https://www.globalforestwatch.org/) offers free, real-time data, technology and tools for monitoring the world's forests.
 - [Open Street Maps](https://www.openstreetmap.org/) is a collaborative project to create a free editable geographic database of the world.
