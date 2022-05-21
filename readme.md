@@ -21,7 +21,7 @@
 - Silent Alarm through [NFC Ring](https://buildtech.medium.com/emprendedores-costarricenses-desarrollan-alarma-silenciosa-para-combatir-la-inseguridad-en-las-3411e10197fd) 
 
 ###### 👾 3D Prototyping:
-- [Thinkercad](https://www.tinkercad.com/things/dL0gL9ezOA0-shiny-amur-turing/edit?sharecode=lwpFEJssJQfujnIcSLRVfZilQRtdQPB1Z9O_7356VKo)
+- NFC Ring to get geolocation from smartphone. Download the 3D model in [Thinkercad](https://www.tinkercad.com/things/dL0gL9ezOA0-shiny-amur-turing/edit?sharecode=lwpFEJssJQfujnIcSLRVfZilQRtdQPB1Z9O_7356VKo)
 
 > Agriculture & Farming 🌾
 
