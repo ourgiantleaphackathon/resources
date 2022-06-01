@@ -75,3 +75,64 @@ Created by Brandon Escamilla, NASA Space Apps Lead in Mexico City.
 - Leandro Camacho
 - Benjamin Greaves 
 - Antony Ramírez
+
+## ✍ Contributors  <a name = "contributors"></a>
+
+
+<!-- readme: collaborators,contributors -start -->
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/hoges">
+            <img src="https://avatars.githubusercontent.com/u/30841926?v=4" width="100;" alt="hoges"/>
+            <br />
+            <sub><b>Hoges</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/wrussell1999">
+            <img src="https://avatars.githubusercontent.com/u/34094921?v=4" width="100;" alt="wrussell1999"/>
+            <br />
+            <sub><b>Will Russell</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/juanpflores">
+            <img src="https://avatars.githubusercontent.com/u/6200135?v=4" width="100;" alt="juanpflores"/>
+            <br />
+            <sub><b>Juan Pablo Flores </b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/David-Lazaro-Fernandez">
+            <img src="https://avatars.githubusercontent.com/u/57787993?s=400&u=eab175b2d6c41338891c8e71335322d1dcb6f0ad&v=4" width="100;" alt="DavidLazaro"/>
+            <br />
+            <sub><b>David Lazaro Fernandez</b></sub>
+        </a>
+    </td>
+  </tr>
+</table>
+<!-- readme: collaborators,contributors -end -->
+
+### Partners
+
+<!-- readme: hoges,mpsiebert -start -->
+<table>
+<tr>
+    <td align="center">
+        <a href="https://discord.com/">
+            <img src="https://logos-marcas.com/wp-content/uploads/2020/12/Discord-Logo.png" width="100;" alt="Dicord"/>
+            <br />
+            <sub><b>Discord</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://mlh.io/">
+            <img src="https://static.mlh.io/brand-assets/logo/official/mlh-logo-color.png" width="100;" alt="Major League Hacking"/>
+            <br />
+            <sub><b>MLH</b></sub>
+        </a>
+    </td></tr>
+</table>
+<!-- readme: hoges,mpsiebert -end -->
+
