@@ -114,25 +114,18 @@ Created by Brandon Escamilla, NASA Space Apps Lead in Mexico City.
 </table>
 <!-- readme: collaborators,contributors -end -->
 
-### Partners
+### Join our Community!
 
 <!-- readme: hoges,mpsiebert -start -->
 <table>
 <tr>
     <td align="center">
-        <a href="https://discord.com/">
+        <a href="https://discord.gg/6c7UcUEesq">
             <img src="https://logos-marcas.com/wp-content/uploads/2020/12/Discord-Logo.png" width="100;" alt="Dicord"/>
             <br />
             <sub><b>Discord</b></sub>
         </a>
     </td>
-    <td align="center">
-        <a href="https://mlh.io/">
-            <img src="https://static.mlh.io/brand-assets/logo/official/mlh-logo-color.png" width="100;" alt="Major League Hacking"/>
-            <br />
-            <sub><b>MLH</b></sub>
-        </a>
-    </td></tr>
+    
 </table>
 <!-- readme: hoges,mpsiebert -end -->
-
