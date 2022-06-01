@@ -35,14 +35,13 @@
 - [Farming Tech with Roots in Space](https://www.nasa.gov/directorates/spacetech/spinoff/feature/NASA_is_Everywhere)
 
 
-## 3- Sustainability
+## 3- Sustainability 🌎
 - [Gender equality in farming](#), 
 
-
-## 4- Public Sanitation & Healthcare
+## 4- Public Sanitation & Healthcare 😷
 - [Better access to public sanitation and healthcare:](#), 
 
-## 5- Child marriage and other forms of gender-based violences
+## 5- Child marriage and other forms of gender-based violences ❌
 - [Child marriage and other forms of gender-based violences](#),  
 
 
