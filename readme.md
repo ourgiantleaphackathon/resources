@@ -72,9 +72,10 @@ Created by Brandon Escamilla, NASA Space Apps Lead in Mexico City.
 
 ### ✍ Contributors: 🚀
 - Maelyls Beliazi
+- Maelyls Beliazi
 - Leandro Camacho
 - Benjamin Greaves 
-- Antony Ramírez
+- Sarah Hasnain
 
 ### Join our Community!
 
