@@ -71,11 +71,12 @@ Created by Brandon Escamilla, NASA Space Apps Lead in Mexico City.
 
 
 ### ✍ Contributors: 🚀
-- Maelyls Beliazi
+- Sarah Hasnain
 - Maelyls Beliazi
 - Leandro Camacho
-- Benjamin Greaves 
-- Sarah Hasnain
+- Benjamin Greaves
+- Antony Ramírez 
+
 
 ### Join our Community!
 
