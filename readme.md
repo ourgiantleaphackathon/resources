@@ -58,7 +58,7 @@
 
 -  (20%) Achieving Goal #5 of the SDGs is a strict demand from the projects.
 -  (20%) Using space technology or savoir-faire is also a strict demand.
-- (20%) The project has to have made a significant impact* for gender equality  by 2030.
+- (20%) The project has to have made a significant impact for gender equality  by 2030.
 - =100% 
 
 Glossary:
