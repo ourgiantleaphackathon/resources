@@ -3,7 +3,7 @@
  <img src="images/Logo" alt="Project logo"></a>
 </p>
 
-<h3 align="center">🤖 [Our Giant Leap Hackathon 2022</h3>
+<h3 align="center" href="https://spacegeneration.org/our-giant-leap-hackathon-2022">🤖 Our Giant Leap Hackathon 2022</h3>
 
 <div align="center">
 
