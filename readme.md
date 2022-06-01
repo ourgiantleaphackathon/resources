@@ -50,6 +50,17 @@
 > Erradicate child marriage!
 - [Child marriage and other forms of gender-based violences](#),  
 
+## Juding Criteria
+
+- Original idea (20%): Which is the level of originality/innovation of your project; is it disruptive or incremental? 
+Is the project financially viable? 
+
+- (20%) It doesn’t have to be, but if it is, the project will score higher.
+
+- Achieving Goal #5 of the SDGs is a strict demand from the projects (20%).
+- Using space technology or savoir-faire is also a strict demand (20%).
+- The project has to have made a significant impact* for gender equality  by 2030 (20%).
+
 
 Glossary:
 
