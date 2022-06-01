@@ -52,14 +52,14 @@
 
 ## Juding Criteria
 
-- Original idea (20%): Which is the level of originality/innovation of your project; is it disruptive or incremental? 
+- (20%) Original idea : Which is the level of originality/innovation of your project; is it disruptive or incremental? 
 
-- Is the project financially viable? (20%) It doesn’t have to be, but if it is, the project will score higher.
+- (20%) Is the project financially viable? It doesn’t have to be, but if it is, the project will score higher.
 
-- Achieving Goal #5 of the SDGs is a strict demand from the projects (20%).
-- Using space technology or savoir-faire is also a strict demand (20%).
-- The project has to have made a significant impact* for gender equality  by 2030 (20%).
-
+-  (20%) Achieving Goal #5 of the SDGs is a strict demand from the projects.
+-  (20%) Using space technology or savoir-faire is also a strict demand.
+- (20%) The project has to have made a significant impact* for gender equality  by 2030.
+- =100% 
 
 Glossary:
 
