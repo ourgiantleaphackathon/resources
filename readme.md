@@ -1,3 +1,19 @@
+<p align="center">
+  <a href="" rel="noopener">
+ <img src="images/Logo" alt="Project logo"></a>
+</p>
+
+<h3 align="center">🤖 [Our Giant Leap Hackathon 2022</h3>
+
+<div align="center">
+
+[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+[![License](https://img.shields.io/badge/license-GNU-blue.svg)](/LICENSE)
+
+</div>
+
+---
+
 # 🤖 [Our Giant Leap Hackathon 2022](https://spacegeneration.org/our-giant-leap-hackathon-2022) 🛰️ 
 ### How can space technology and know-how help make a leap forward towards gender equality on Earth?
 ###### ||Global competition: 🌎 Build solutions for your communities main challenges to achieve gender equality and empower all women and girls by using Space Tech. ||
