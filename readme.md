@@ -13,7 +13,7 @@
 
 "Gender equality is not only a fundamental human right, but a necessary foundation for a peaceful, prosperous and sustainable world." ([UN,2022](https://www.un.org/sustainabledevelopment/gender-equality/)) 
 
-"Globally, an estimated 736 million women—almost one in three—have been subjected to physical and/or sexual intimate partner violence, non-partner sexual violence, or both at least once in their life (30 per cent of women aged 15 and older)." ([UN,2021]([https://www.un.org/sustainabledevelopment/gender-equality/](https://www.unwomen.org/en/what-we-do/ending-violence-against-women/facts-and-figures)) 
+"Globally, an estimated 736 million women—almost one in three—have been subjected to physical and/or sexual intimate partner violence, non-partner sexual violence, or both at least once in their life (30 per cent of women aged 15 and older)." ([UN,2021](https://www.un.org/sustainabledevelopment/gender-equality/](https://www.unwomen.org/en/what-we-do/ending-violence-against-women/facts-and-figures)) 
 
 #### Resources by Category: 
 
