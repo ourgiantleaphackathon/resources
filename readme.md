@@ -17,6 +17,8 @@
 
 - "Violence against women is preventable. The health sector has an important role to play to provide comprehensive health care to women subjected to violence, and as an entry point for referring women to other support services they may need." ([World Health Organization,2021](https://www.who.int/news-room/fact-sheets/detail/violence-against-women)) 
 
+- "The social and economic costs of intimate partner and sexual violence are enormous and have ripple effects throughout society. Women may suffer isolation, inability to work, loss of wages, lack of participation in regular activities and limited ability to care for themselves and their children." ([World Health Organization,2021](https://www.who.int/news-room/fact-sheets/detail/violence-against-women)) 
+
 - "Gender equality is not only a fundamental human right, but a necessary foundation for a peaceful, prosperous and sustainable world." ([United Nations,2022](https://www.un.org/sustainabledevelopment/gender-equality/)) 
 
 
