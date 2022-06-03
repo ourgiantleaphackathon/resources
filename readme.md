@@ -11,11 +11,13 @@
 
 ## Context:
 
-> "Globally, an estimated 736 million women—almost one in three—have been subjected to physical and/or sexual intimate partner violence, non-partner sexual violence, or both at least once in their life (30 per cent of women aged 15 and older)." ([United Nations,2021](https://www.unwomen.org/en/what-we-do/ending-violence-against-women/facts-and-figures)) 
+- "Globally, an estimated 736 million women—almost one in three—have been subjected to physical and/or sexual intimate partner violence, non-partner sexual violence, or both at least once in their life (30 per cent of women aged 15 and older)." ([United Nations,2021](https://www.unwomen.org/en/what-we-do/ending-violence-against-women/facts-and-figures)) 
 
-> "Violence against women is preventable. The health sector has an important role to play to provide comprehensive health care to women subjected to violence, and as an entry point for referring women to other support services they may need." ([World Health Organization,2021](https://www.who.int/news-room/fact-sheets/detail/violence-against-women)) 
+- "Globally 81,000 women and girls were killed in 2020, around 47,000 of them (58 per cent) died at the hands of an intimate partner or a family member, which equals to a woman or girl being killed every 11 minutes in their home." ([United Nations,2021](https://www.unwomen.org/en/what-we-do/ending-violence-against-women/facts-and-figures)) 
 
-> "Gender equality is not only a fundamental human right, but a necessary foundation for a peaceful, prosperous and sustainable world." ([United Nations,2022](https://www.un.org/sustainabledevelopment/gender-equality/)) 
+- "Violence against women is preventable. The health sector has an important role to play to provide comprehensive health care to women subjected to violence, and as an entry point for referring women to other support services they may need." ([World Health Organization,2021](https://www.who.int/news-room/fact-sheets/detail/violence-against-women)) 
+
+- "Gender equality is not only a fundamental human right, but a necessary foundation for a peaceful, prosperous and sustainable world." ([United Nations,2022](https://www.un.org/sustainabledevelopment/gender-equality/)) 
 
 
 #### Resources by Category: 
