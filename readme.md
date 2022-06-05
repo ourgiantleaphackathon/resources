@@ -23,6 +23,10 @@
 
 - "In the future, 90% of all jobs will require STEM related skills and women must possess skills and education to be competitive in the future employment market." ([UNOOSA,2021](https://news.un.org/en/story/2021/10/1102082)) 
 
+- "The number of women employed in the international space industry represents just 20-22 percent of the workforce, according to figures released by the UN; roughly the same proportion as 30 years ago."  ([UNOOSA,2021](https://news.un.org/en/story/2021/10/1102082))
+
+
+
 
 #### Resources by Category: 
 
