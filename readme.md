@@ -115,7 +115,7 @@ Created by Brandon Escamilla, NASA Space Apps Lead in Mexico City.
 <table>
 <tr>
     <td align="center">
-        <a href="https://discord.gg/6c7UcUEesq">
+        <a href="#">
             <img src="https://logos-marcas.com/wp-content/uploads/2020/12/Discord-Logo.png" width="100;" alt="Dicord"/>
             <br />
             <sub><b>Discord</b></sub>
