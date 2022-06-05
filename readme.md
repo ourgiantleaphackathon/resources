@@ -25,6 +25,8 @@
 
 - "The number of women employed in the international space industry represents just 20-22 percent of the workforce, according to figures released by the UN; roughly the same proportion as 30 years ago."  ([UNOOSA,2021](https://news.un.org/en/story/2021/10/1102082))
 
+- "Over 560 people have traveled to space, but less than 70 of them are women. Of the 225 spacewalks that have been taken, only 15 were by women." ([UNOOSA,2021](https://news.un.org/en/story/2021/10/1102082))  
+
 
 
 
