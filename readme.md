@@ -21,6 +21,8 @@
 
 - "Gender equality is not only a fundamental human right, but a necessary foundation for a peaceful, prosperous and sustainable world." ([United Nations,2022](https://www.un.org/sustainabledevelopment/gender-equality/)) 
 
+- "In the future, 90% of all jobs will require STEM related skills and women must possess skills and education to be competitive in the future employment market." ([UNOOSA,2021](https://news.un.org/en/story/2021/10/1102082)) 
+
 
 #### Resources by Category: 
 
