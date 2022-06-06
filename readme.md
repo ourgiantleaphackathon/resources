@@ -32,9 +32,9 @@
 
 #### Resources by Category: 
 
-## 🚨 Women Safety 
+## ✊ Gender Equality ([SDG # 5](https://sdgs.un.org/goals/goal5)) 
 
-> 📍 Smart Ring Project: GPS control & NFC
+> 📍 Women Safety 🚨 Smart Ring Project: GPS control & NFC
 
 ###### Smart Ring Project:
 - Get user [Geolocation](https://developers.google.com/maps/documentation/javascript/examples/map-geolocation#maps_map_geolocation-html)
