@@ -45,7 +45,7 @@
 - NFC Ring to get geolocation from smartphone. Download the 3D model in [Thinkercad](https://www.tinkercad.com/things/dL0gL9ezOA0-shiny-amur-turing/edit?sharecode=lwpFEJssJQfujnIcSLRVfZilQRtdQPB1Z9O_7356VKo)
 
 
-## 🌾 Agriculture & Farming 
+## Space Know How 
 > Agriculture & Farming 🌾
 
 - [Global Forest Watch](https://www.globalforestwatch.org/) offers free, real-time data, technology and tools for monitoring the world's forests.
@@ -53,17 +53,17 @@
 - [Farming Tech with Roots in Space](https://www.nasa.gov/directorates/spacetech/spinoff/feature/NASA_is_Everywhere)
 
 
-## 🌎 Sustainability 
+> 🌎 Sustainability 
 
 > Developing a sustainable future on earth. 🌾
 - [Gender equality in farming](#), 
 
-## 😷 Public Sanitation & Healthcare 
+> 😷 Public Sanitation & Healthcare 
 
 > Provide better access to healthcare.
 - [Better access to public sanitation and healthcare:](#), 
 
-## ❌ Child marriage and other forms of gender-based violences 
+> ❌ Child marriage and other forms of gender-based violences 
 
 > Erradicate child marriage!
 - [Child marriage and other forms of gender-based violences](#),  
