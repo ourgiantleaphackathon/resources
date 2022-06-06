@@ -44,7 +44,7 @@
 ###### 👾 3D Prototyping:
 - NFC Ring to get geolocation from smartphone. Download the 3D model in [Thinkercad](https://www.tinkercad.com/things/dL0gL9ezOA0-shiny-amur-turing/edit?sharecode=lwpFEJssJQfujnIcSLRVfZilQRtdQPB1Z9O_7356VKo)
 
-- [Gender wage gap analysis and data viz] (https://github.com/arajni3/Gender_Wage_Gap_Analysis_And_Visualization)
+- [Gender wage gap analysis and data viz](https://github.com/arajni3/Gender_Wage_Gap_Analysis_And_Visualization)
 
 ## Space Know How 
 > Agriculture & Farming 🌾
@@ -77,7 +77,7 @@
 
 ## State of the Art
 - [Buy from Women by UN Women](https://www.buyfromwomen.org/)
-- [Medi-capt project] (https://reliefweb.int/sites/reliefweb.int/files/resources/Innovation-for-gender-equality-en.pdf)
+- [Medi-capt project](https://reliefweb.int/sites/reliefweb.int/files/resources/Innovation-for-gender-equality-en.pdf)
 - 
 
 
