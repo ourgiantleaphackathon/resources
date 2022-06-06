@@ -44,6 +44,7 @@
 ###### 👾 3D Prototyping:
 - NFC Ring to get geolocation from smartphone. Download the 3D model in [Thinkercad](https://www.tinkercad.com/things/dL0gL9ezOA0-shiny-amur-turing/edit?sharecode=lwpFEJssJQfujnIcSLRVfZilQRtdQPB1Z9O_7356VKo)
 
+- [Gender wage gap analysis and data viz] (https://github.com/arajni3/Gender_Wage_Gap_Analysis_And_Visualization)
 
 ## Space Know How 
 > Agriculture & Farming 🌾
@@ -51,7 +52,7 @@
 - [Global Forest Watch](https://www.globalforestwatch.org/) offers free, real-time data, technology and tools for monitoring the world's forests.
 - [Open Street Maps](https://www.openstreetmap.org/) is a collaborative project to create a free editable geographic database of the world.
 - [Farming Tech with Roots in Space](https://www.nasa.gov/directorates/spacetech/spinoff/feature/NASA_is_Everywhere)
-
+- [MIT Lunar Open Architecture (LOA)] (https://loa.mit.edu/) 
 
 > 🌎 Sustainability 
 
@@ -75,9 +76,9 @@
 -
 
 ## State of the Art
--
--
--
+- [Buy from Women by UN Women](https://www.buyfromwomen.org/)
+- [Medi-capt project] (https://reliefweb.int/sites/reliefweb.int/files/resources/Innovation-for-gender-equality-en.pdf)
+- 
 
 
 ## Juding Criteria
