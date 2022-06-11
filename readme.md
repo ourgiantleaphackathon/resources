@@ -52,7 +52,7 @@
 - [Global Forest Watch](https://www.globalforestwatch.org/) offers free, real-time data, technology and tools for monitoring the world's forests.
 - [Open Street Maps](https://www.openstreetmap.org/) is a collaborative project to create a free editable geographic database of the world.
 - [Farming Tech with Roots in Space](https://www.nasa.gov/directorates/spacetech/spinoff/feature/NASA_is_Everywhere)
-- [MIT Lunar Open Architecture (LOA)] (https://loa.mit.edu/) 
+- [MIT Lunar Open Architecture (LOA)](https://loa.mit.edu/) 
 
 > 🌎 Sustainability 
 
