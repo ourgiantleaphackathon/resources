@@ -69,12 +69,6 @@
 > Erradicate child marriage!
 - [Child marriage and other forms of gender-based violences](#),  
 
-
-## Space Systems Engineering 
--
--
--
-
 ## State of the Art
 - [Buy from Women by UN Women](https://www.buyfromwomen.org/)
 - [Medi-capt project](https://reliefweb.int/sites/reliefweb.int/files/resources/Innovation-for-gender-equality-en.pdf)
