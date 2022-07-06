@@ -87,7 +87,7 @@
 - =100% 
 
 
-##🏆 Awards:
+## 🏆Awards:
 
 All members of the Our Giant Leap Hackathon winning team will receive partial scholarships to one of the International Space University’s renowned programs! 
 
