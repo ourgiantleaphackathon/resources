@@ -86,6 +86,11 @@
 - (20%) The project has to have made a significant impact for gender equality  by 2030.
 - =100% 
 
+
+##🏆 Awards:
+
+All members of the Our Giant Leap Hackathon winning team will receive partial scholarships to one of the International Space University’s renowned programs! 
+
 Glossary:
 
 ***MODIS (or Moderate Resolution Imaging Spectroradiometer)***: es un instrumento clave a bordo de los satélites Terra (originalmente conocido como EOS AM-1) y Aqua (originalmente conocido como EOS PM-1). 
