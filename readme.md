@@ -5,7 +5,7 @@
 ## 🏁 Let's get started!
 ######  This repo provides an overview of resources that can help participants of OGL Hackathon to get started using space tech applied to gender equiality.
 
-[![Pitch](https://img.youtube.com/vi/pErzslMIl68/0.jpg)](https://youtu.be/pErzslMIl68)
+[![Pitch](https://img.youtube.com/vi/k6D9Gh10mGw/0.jpg)](https://youtu.be/k6D9Gh10mGw)
 
 ###### Organized by OGL Team & Sponsored by Korean Aerospace Research Institute.
 
