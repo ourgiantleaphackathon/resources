@@ -46,6 +46,12 @@
 
 - [Gender wage gap analysis and data viz](https://github.com/arajni3/Gender_Wage_Gap_Analysis_And_Visualization)
 
+##### More Resources
+- 
+- 
+- 
+
+
 ## Space Know How 
 > Agriculture & Farming 🌾
 
@@ -54,10 +60,13 @@
 - [Farming Tech with Roots in Space](https://www.nasa.gov/directorates/spacetech/spinoff/feature/NASA_is_Everywhere)
 - [MIT Lunar Open Architecture (LOA)](https://loa.mit.edu/) 
 
-> 🌎 Sustainability 
-
+> 🌎 Agriculture 
 > Developing a sustainable future on earth. 🌾
-- [Gender equality in farming](#), 
+
+- Gender-reponsive Researchers Equipped for Agricultural Transformation  [(GREAT)](https://www.greatagriculture.org/)
+- [DANA](https://www.dana-global.com/): DANA is an Abu Dhabi based venture builder and investment platform that supports women-led startups in desert tech, including sectors of agritech, water solutions, food security, waste management, and renewable energy through regional collaboration, innovation mentorship, impact community, and funding.
+
+
 
 > 😷 Public Sanitation & Healthcare 
 
