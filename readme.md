@@ -116,7 +116,7 @@ Created by Brandon Escamilla, NASA Space Apps Lead in Mexico City.
 
 
 ### ✍ Contributors: 🚀
-- Maelyls Beliazi
+- Maelys Beliazi
 - Leandro Camacho
 - Benjamin Greaves
 - Antony Ramírez 
