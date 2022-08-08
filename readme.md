@@ -1,4 +1,6 @@
 # 🤖 [Our Giant Leap Hackathon 2022](https://spacegeneration.org/our-giant-leap-hackathon-2022) 🛰️ 
+# 📅 Date: 14 & 15 of August |📍 IBS Center, Daejeon, Korea 🇰🇷 |
+
 ### How can space technology help make a leap forward towards gender equality on Earth?
 ###### ||Global competition: 🌎 Build solutions for your communities main challenges to achieve gender equality and empower all women and girls by using Space Tech. ||
 
@@ -47,9 +49,8 @@
 - [Gender wage gap analysis and data viz](https://github.com/arajni3/Gender_Wage_Gap_Analysis_And_Visualization)
 
 ##### More Resources
-- 
-- 
-- 
+- [Gender wage gap analysis and data visualisation](https://github.com/arajni3/Gender_Wage_Gap_Analysis_And_Visualization) 
+- [Agriculture for Development](https://www.frontiersin.org/articles/10.3389/fsufs.2021.573424/full) 
 
 
 ## Space Know How 
