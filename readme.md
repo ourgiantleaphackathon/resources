@@ -135,7 +135,7 @@ Created by Brandon Escamilla, NASA Space Apps Lead in Mexico City.
 - Maelys Beliazi
 - Leandro Camacho
 - Benjamin Greaves
-- Antony Ramírez 
+- Julia Akisheva 
 
 
 ### Join our Community!
