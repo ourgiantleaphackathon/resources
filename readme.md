@@ -1,5 +1,5 @@
 # 🤖 [Our Giant Leap Hackathon 2022](https://spacegeneration.org/our-giant-leap-hackathon-2022) 🛰️ 
-# 📅 Date: 14 & 15 of August |📍 IBS Center, Daejeon, Korea 🇰🇷 |
+# 📅 Date: August 14th and 15th |📍 IBS Center, Daejeon, Korea 🇰🇷 |
 
 ### How can space technology help make a leap forward towards gender equality on Earth?
 ###### ||Global competition: 🌎 Build solutions for your communities main challenges to achieve gender equality and empower all women and girls by using Space Tech. ||
@@ -67,17 +67,22 @@
 - Gender-reponsive Researchers Equipped for Agricultural Transformation  [(GREAT)](https://www.greatagriculture.org/)
 - [DANA](https://www.dana-global.com/): DANA is an Abu Dhabi based venture builder and investment platform that supports women-led startups in desert tech, including sectors of agritech, water solutions, food security, waste management, and renewable energy through regional collaboration, innovation mentorship, impact community, and funding.
 
+> 👀 Earth Observation Data
 
+- [Copernicus Access Hub](https://scihub.copernicus.eu/)
+- [Sentinel EO Browser]( https://apps.sentinel-hub.com/eo-browser/?zoom=10&lat=41.9&lng=12.5&themeId=DEFAULT-THEME&toTime=2022-07-10T14%3A08%3A33.650Z)
+- [USGS Earth Explorer database](https://earthexplorer.usgs.gov/)
+- [NASA EarthData search](https://search.earthdata.nasa.gov/search)
+- [NOAA Data Access Viewer](https://coast.noaa.gov/dataviewer/#/) 
 
-> 😷 Public Sanitation & Healthcare 
+> 📍 Geolocation Data
+- [How to locate a user based on IP address](https://geotargetly.com/ip-geolocation-databases#:~:text=Geolocation%20IP%20Databases%20allow%20you,origin'%20of%20that%20IP%20address)
+- [Mozilla location services](https://location.services.mozilla.com/)
 
-> Provide better access to healthcare.
-- [Better access to public sanitation and healthcare:](#), 
-
-> ❌ Child marriage and other forms of gender-based violences 
-
-> Erradicate child marriage!
-- [Child marriage and other forms of gender-based violences](#),  
+> 😷 Medical 
+- [Women’s Health in Spaceflight](https://www.researchgate.net/publication/262582064_Women's_Health_in_Spaceflight)
+- [Impact of space radiation on menopause](https://www.sciencedirect.com/science/article/abs/pii/S0301211522000744#!)
+- [Study on women astronaut health](https://lsda.jsc.nasa.gov/Experiment/exper/1048)
 
 ## State of the Art
 - [Buy from Women by UN Women](https://www.buyfromwomen.org/)
@@ -89,6 +94,24 @@
 - [Collective intelligence: where/how to collect data for your project](https://smartertogether.earth/how-collective-intelligence-is-used-for-the-sdgs/use-case-5)
 - [Wearable Tech Ventures](https://www.wearabletechventures.org/)
 - [Exploring the Ethics of Space Medicine Safe Passage: Astronaut Care for Exploration Missions.](https://www.ncbi.nlm.nih.gov/books/NBK223775/)
+
+## Coding
+
+- [Algorithmic Justice League (AJL)](https://www.ajl.org/)
+- [Udacity](https://www.udacity.com/)
+- [Code Pen](https://codepen.io/)
+- [Bootstrap](https://startbootstrap.com/)
+- [Atom](https://atom.io/)
+- [Hackr.io](https://hackr.io/?utm_source=blog_post&utm_medium=coding&utm_campaign=learn_to_code_part_3_hio)
+- [Learning to code](https://tips.hackathon.com/article/21-websites-you-can-use-to-learn-to-code-for-free-part-3)
+
+## No Coding Apps
+- [Bubble](https://bubble.io/features)
+
+## Business Model
+- [Lean Business Canvas](https://businessmodelanalyst.com/lean-canvas/)
+- [Pitcherific](https://pitcherific.com/)
+
 
 
 ## Juding Criteria
