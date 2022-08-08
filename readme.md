@@ -81,7 +81,13 @@
 ## State of the Art
 - [Buy from Women by UN Women](https://www.buyfromwomen.org/)
 - [Medi-capt project](https://reliefweb.int/sites/reliefweb.int/files/resources/Innovation-for-gender-equality-en.pdf)
-- 
+- [MIT Lunar Open Architecture (LOA)](https://loa.mit.edu/)
+- [App-Elles](https://app-elles.fr/index_en.html)
+- [Ericsson: connect to learn](https://www.ericsson.com/en/blog/2018/11/connect-to-learn-improving-access-to--and-quality-of--education)
+- [Mapping violence in public spaces](https://smartertogether.earth/13-stories-from-the-labs/combining-multiple-datasets-understand-gender-based-violence-public-spaces)
+- [Collective intelligence: where/how to collect data for your project](https://smartertogether.earth/how-collective-intelligence-is-used-for-the-sdgs/use-case-5)
+- [Wearable Tech Ventures](https://www.wearabletechventures.org/)
+- [Exploring the Ethics of Space Medicine Safe Passage: Astronaut Care for Exploration Missions.](https://www.ncbi.nlm.nih.gov/books/NBK223775/)
 
 
 ## Juding Criteria
