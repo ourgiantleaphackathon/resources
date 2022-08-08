@@ -115,20 +115,27 @@
 
 
 ## Juding Criteria
+Notes: 
+1. Achieving Goal #5 of the SDGs is a strict must-have demand from the projects. 
+2. Using space technology or savoir-faire is also a strict demand.
 
-- (20%) Original idea : Which is the level of originality/innovation of your project; is it disruptive or incremental? 
+- (30%) Focus, Originality,  and Innovation : Which is the level of originality/innovation of your project; is it disruptive or incremental? 
 
-- (20%) Is the project financially viable? It doesn’t have to be, but if it is, the project will score higher.
+- (10%) Is the project financially viable? It doesn’t have to be, but if it is, the project will score higher.
 
--  (20%) Achieving Goal #5 of the SDGs is a strict demand from the projects.
--  (20%) Using space technology or savoir-faire is also a strict demand.
-- (20%) The project has to have made a significant impact for gender equality  by 2030.
+- (30%) Feasibility, Implementation, and Impact : Will the project make a significant impact for gender equality by 2030?
+
+- (20%) Quality of the pitch : Clarity, appeal, timing, handling Q&A.
+
+- (10%) Grade from the Organising team : Quality of the deliverables and your overall participation in the hackathon program?
+
 - =100% 
 
 
 ## 🏆Awards:
 
 All members of the Our Giant Leap Hackathon winning team will receive partial scholarships to one of the International Space University’s renowned programs! 
+Also, the winning team will receive 5 hours of mentorship with the Starburst Aerospace accelerator to help the team take their idea forward!
 
 Glossary:
 
@@ -158,7 +165,7 @@ Created by Brandon Escamilla, NASA Space Apps Lead in Mexico City.
 - Maelys Beliazi
 - Leandro Camacho
 - Benjamin Greaves
-- Julia Akisheva 
+- Yulia Akisheva 
 
 
 ### Join our Community!
