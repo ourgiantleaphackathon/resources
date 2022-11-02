@@ -1,4 +1,6 @@
-# 🏆🤖 [Winning Teams of Our Giant Leap Hackathon 2022](https://spacegeneration.org/our-giant-leap-hackathon-2022) 🛰️ 
+# 🏆 Winning Teams & Gallery of Projects 🚀 
+# 🤖 [Our Giant Leap Hackathon 2022](https://spacegeneration.org/our-giant-leap-hackathon-2022) 🛰️ 
+
 
 ## 🏆 1st Place: iFarmer
 
