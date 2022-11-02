@@ -1,5 +1,2 @@
-![alt text](https://ibb.co/cNZMsB5)
+![iFarmer](https://github.com/ourgiantleaphackathon/resources/blob/main/Projects%202022/1_Team_H_iFarmer.jpg)
 
-
-
-![alt text](https://i.ibb.co/19Ph4gV/1-Team-H-i-Farmer.jpg)
